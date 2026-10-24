@@ -9,6 +9,13 @@ focus_subjects: 待填写
 
 [daily]
 # date | sleep=,subject=,times=,mistake=,diftask=,norm,state | difficult= | answered= | missing= | sum= | pct= | label= | updated_at=
+2026-10-18 | sleep=2,subject=1,times=2,mistake=2,diftask=2,norm=2,state=2 | difficult=测试数据·函数与导数 | answered=7 | missing= | sum=13 | pct=92.9 | label=good | updated_at=2026-10-24 23:48:36
+2026-10-19 | sleep=2,subject=1,times=1,mistake=2,diftask=0,norm=2,state=2 | difficult=测试数据·英语完形 | answered=7 | missing= | sum=10 | pct=71.4 | label=warn | updated_at=2026-10-24 23:48:36
+2026-10-20 | sleep=0,subject=2,times=2,mistake=0,diftask=0,norm=2,state=1 | difficult=测试数据·函数与导数 | answered=7 | missing= | sum=7 | pct=50.0 | label=alert | updated_at=2026-10-24 23:48:36
+2026-10-21 | sleep=2,subject=1,times=2,mistake=0,diftask=1,norm=2,state=0 | difficult=测试数据·函数与导数 | answered=7 | missing= | sum=8 | pct=57.1 | label=alert | updated_at=2026-10-24 23:48:36
+2026-10-22 | sleep=2,subject=1,times=0,mistake=0,diftask=2,norm=1,state=0 | difficult=测试数据·英语完形 | answered=7 | missing= | sum=6 | pct=42.9 | label=alert | updated_at=2026-10-24 23:48:36
+2026-10-23 | sleep=1,subject=0,times=2,mistake=1,diftask=1,norm=2,state=2 | difficult=测试数据·立体几何 | answered=7 | missing= | sum=9 | pct=64.3 | label=warn | updated_at=2026-10-24 23:48:36
+2026-10-24 | sleep=1,subject=0,times=1,mistake=2,diftask=1,norm=2,state=0 | difficult=测试数据·英语完形 | answered=7 | missing= | sum=7 | pct=50.0 | label=alert | updated_at=2026-10-24 23:48:36
 
 [exams]
-# exam_id | date | name | score
+devtest-1792856882164-2 | 2026-10-21 | 测试考试 C | 565

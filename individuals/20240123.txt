@@ -1,0 +1,14 @@
+# songhe individual profile v1
+stu_number: 20240123
+name: 林澈人
+created_at: 2026-10-24 23:30:06
+tier: 待定
+current_total: 0
+stage_goal: 待填写
+focus_subjects: 待填写
+
+[daily]
+# date | sleep=,subject=,times=,mistake=,diftask=,norm,state | difficult= | answered= | missing= | sum= | pct= | label= | updated_at=
+
+[exams]
+# exam_id | date | name | score
